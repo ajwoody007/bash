@@ -2,7 +2,7 @@ In order to run a laravel project, I need to start docker-desktop, then in a ter
 
 Also, if I wanted to run a CLI command, such as migrate, I needed yet another terminal window.
 
-Not very difficult or laborious, just tedious each and every time and results in multiple needless terminal windows that fill up screen space when developing on a laptop.
+Not very difficult or labourious, just tedious each and every time and results in multiple needless terminal windows that fill up screen space when developing on a laptop.
 
 The need for fewer terminal windows seemed obvious and also the starting and stopping of the three main processes screamed out for streamlining.
 
