@@ -6,7 +6,7 @@ Not very difficult or laborious, just tedious each and every time and results in
 
 The need for fewer terminal windows seemed obvious and also the starting and stopping of the three main processes screamed out for streamlining.
 
-So I created a BASH file that can be called from anywhere via the command "./lara.sh -p=`name of project folder` -a=start" to run all the required processes in one single terminal window. Using "-a=stop" will...well, you've guessed it. 
+So I created a BASH file that can be called from anywhere via the command "./lara.sh -p=<name of project folder> -a=start" to run all the required processes in one single terminal window. Using "-a=stop" will...well, you've guessed it. 
 
 I also made sure that the output from the processes is turned off, as it is not needed 99% of the time
 
